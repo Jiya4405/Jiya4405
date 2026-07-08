@@ -7,6 +7,8 @@ I like working across the full pipeline: SQL → Python → dashboards → a one
 ## What I've been building
 
 - 🛒 **[Olist E-Commerce Analysis](https://github.com/Jiya4405/olist-ecommerce-analysis)** — end-to-end analysis of 99K Brazilian e-commerce orders: SQL joins/window functions, a pandas-based investigation into delivery delays vs. customer reviews, an interactive Dash dashboard, and a business memo with concrete recommendations.
+- 📄 **[Resume–Job Matching AI](https://github.com/Jiya4405/resume-matcher)** — a live NLP tool ([demo](https://jiya-resume-matcher.streamlit.app)) that scores resume-to-job fit via semantic similarity and flags missing skills.
+- 📈 **[Nonprofit Program Impact & Data Quality Dashboard](https://github.com/Jiya4405/nonprofit-program-dashboard)** — an interactive Excel dashboard with a live filter, KPI tracking, and a data-quality monitoring view that flags incomplete records for follow-up.
 - 📊 Amazon Stock Price vs. Federal Funds Rate (1997–2024) — rolling-window regression and time-series visualization.
 - 🏦 Bank Marketing Data Analysis (PEP) — classification models and EDA for a predictive marketing pipeline.
 - 🍵 Jivan Swad Tea Co. — built sales/operations dashboards and a Flutter + Firebase mobile app with KPI monitoring.
