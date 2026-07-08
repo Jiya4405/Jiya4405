@@ -25,4 +25,4 @@ I like working across the full pipeline: SQL → Python → dashboards → a one
 
 ## Let's connect
 
-📍 New York, NY · 📫 j.chaudhari0404@gmail.com
+📍 New York, NY · 📫 jiyachaudhary404@gmail.com
